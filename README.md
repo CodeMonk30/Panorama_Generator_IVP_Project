@@ -1,1 +1,3 @@
 # Panorama_Generator_IVP_Project
+
+The goal of this project is to develop an application that captures multiple overlapping images and stitches them together to form a single panoramic image. The process involves detecting distinctive keypoints, matching these points across images, and seamlessly stitching them to generate a wide field of view in a final panorama. This technique can enhance the capabilities of basic imaging devices by providing a wider perspective than what is possible with a single shot, making it particularly useful for applications in virtual tours, real estate showcases, and expansive landscape photography.
